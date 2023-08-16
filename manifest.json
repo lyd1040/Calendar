@@ -3,23 +3,23 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "./imgs/calendar_64x64.png",
+      "src": "Calendar/imgs/calendar_64x64.png",
       "type": "imgs/png",
       "sizes": "64x64"
     },
     {
-      "src": "./imgs/calendar_192x192.png",
+      "src": "Calendar/imgs/calendar_192x192.png",
       "type": "imgs/png",
       "sizes": "192x192"
     },
     {
-      "src": "./imgs/calendar_512x512.png",
+      "src": "Calendar/imgs/calendar_512x512.png",
       "type": "imgs/png",
       "sizes": "512x512"
     }
   ],
   "purpose": "any",
-  "start_url": "./index.html",
+  "start_url": "Calendar/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
