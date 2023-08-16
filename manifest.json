@@ -1,0 +1,26 @@
+{
+  "short_name": "Calendar",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "/Calendar/imgs/calendar_64x64.png",
+      "type": "imgs/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/Calendar/imgs/calendar_192x192.png",
+      "type": "imgs/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Calendar/imgs/calendar_512x512.png",
+      "type": "imgs/png",
+      "sizes": "512x512"
+    }
+  ],
+  "purpose": "any",
+  "start_url": "/Calendar/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
